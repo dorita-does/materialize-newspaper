@@ -1,0 +1,17 @@
+body {
+	font-family:Palatino;
+}
+div.navbar li{
+	display:inline;
+}
+h3{
+	font-size: 20px;
+}
+.para{
+	font-size:50px;
+	color:red;
+}
+.game{
+	color:black;
+	font-style: underline;
+}
